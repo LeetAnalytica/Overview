@@ -9,6 +9,9 @@ This section details the features of FalconSweep we have made available for Leet
 ## Socila Media Collectors:
 
 - [x] Twitter Collector
+
+### ROADMAP
+
 - [ ] Facebook Collector
 - [ ] Instagram Collector
 - [ ] TikTok Collector
@@ -19,13 +22,29 @@ This section details the features of FalconSweep we have made available for Leet
 - [x] Bing Collector
 - [x] Duckduckgo Collector
 
+### ROADMAP
+
+- [ ] Leaked Databases
+- [ ] Dark Web Search
+- [ ] API Collection
+
 ## Static Collections:
 
 - [x] Email Collector
 - [x] Telephone Number Collector
 
+### ROADMAP
+
+- [ ] Usernames Collector
+
 # PROCESSORS
 
 For accurate generation of data, we have made available the following tools:
 
-- [x] Cleaning Datasets
+- [x] Cleaning Datasets by Removing Duplications
+- [x] Email Verifier
+- [x] Phone Number Verifier
+
+### ROADMAP
+
+- [ ] Merging Datasets
