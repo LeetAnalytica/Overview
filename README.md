@@ -8,7 +8,7 @@ This section details the features of FalconSweep we have made available for Leet
 
 ## Socila Media Collectors:
 
-- [x] Twitter Collector: Collects Data from logical sets of keywords.
+- [x] Twitter Collector: Collects Data from logical sets of keywords (In Bulk or per Username).
 
 ### ROADMAP
 
