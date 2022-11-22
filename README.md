@@ -36,3 +36,9 @@ This section details the features of FalconSweep we have made available for Leet
 - [x] Delete Row
 - [x] Delete Matching Rows
 - [x] Delete Excluded Rows
+
+# ROADMAP
+
+- [ ] User Interface Development
+- [ ] API Structure Integration with Third-Party Suppliers
+- [ ] AWS Environment Deployment
