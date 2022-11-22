@@ -14,12 +14,15 @@ This section details the features of FalconSweep we have made available for Leet
 - [ ] TikTok Collector
 - [ ] LinkedIn Collector
 
-## Conventional Search Engines:
+## Search Engines:
 
 - [x] Google Collector
 - [x] Bing Collector
 - [x] Duckduckgo Collector
 - [x] Yandex Collector
+
+----
+
 - [ ] Leaked Databases
 
 ## Dark Web Search Engines:
