@@ -6,7 +6,7 @@ Leet Analytica is a continuously improved AI that is developed to assist busines
 
 This section details the features of FalconSweep we have made available for Leet Analytica clients.
 
-## Socila Media Collectors:
+## Social Media Collectors:
 
 - [x] Twitter Collector: Collects Data from logical sets of keywords (In Bulk or per Username).
 - [ ] Facebook Collector
