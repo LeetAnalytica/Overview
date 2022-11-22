@@ -4,7 +4,7 @@ Leet Analytica is a continuously improved AI that is developed to assist busines
 
 # FALCONSWEEP FEATURES
 
-This section details the features of FalconSweep we have made available for Leet Analytica clients.
+This section details the features of FalconSweep we have made available on the Leet Analytica platform.
 
 ## Social Media Collectors:
 
