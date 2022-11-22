@@ -9,33 +9,30 @@ This section details the features of FalconSweep we have made available for Leet
 ## Socila Media Collectors:
 
 - [x] Twitter Collector: Collects Data from logical sets of keywords (In Bulk or per Username).
-
-### ROADMAP
-
 - [ ] Facebook Collector
 - [ ] Instagram Collector
 - [ ] TikTok Collector
+- [ ] LinkedIn Collector
 
 ## Conventional Search Engines:
 
 - [x] Google Collector
 - [x] Bing Collector
 - [x] Duckduckgo Collector
+- [x] Yandex Collector
 - [ ] Leaked Databases
-- [ ] Dark Web Search
-- [ ] API Collection
 
-## Static Collections:
+## Dark Web Search Engines:
 
-- [x] Email Collector
-- [x] Telephone Number Collector
-- [ ] Usernames Collector
+- [ ] Dark Web Collector
 
-# PROCESSORS
+# PROCESSORS THROUGH API
 
-For accurate generation of data, we have made available the following tools:
-
-- [x] Cleaning Datasets by Removing Duplications
-- [x] Email Verifier
-- [x] Phone Number Verifier
-- [ ] Merging Datasets
+- [x] Combine Columns
+- [x] Split Column
+- [x] Change Data Type
+- [x] Cleanup Unix Time
+- [x] Explode Data
+- [x] Delete Row
+- [x] Delete Matching Rows
+- [x] Delete Excluded Rows
