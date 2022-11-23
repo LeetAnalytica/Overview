@@ -14,20 +14,16 @@ This section details the features of FalconSweep we have made available on the L
 - [ ] TikTok Collector
 - [ ] LinkedIn Collector
 
-## Search Engines:
+## Surface/Deep Web Search Engines:
 
 - [x] Google Collector
 - [x] Bing Collector
 - [x] Duckduckgo Collector
 - [x] Yandex Collector
 
-----
-
-- [ ] Leaked Databases
-
 ## Dark Web Search Engines:
 
-- [ ] Dark Web Collector
+- [ ] Dark Web Collector (to be defined)
 
 # PROCESSORS THROUGH API
 
