@@ -45,3 +45,5 @@ This section details the features of FalconSweep we have made available on the L
 - [ ] User Interface Development (In Progress)
 - [ ] API Structure Integration with Third-Party Suppliers
 - [ ] AWS Environment Deployment
+- [ ] Leet Analytica Website
+- [ ] Leet Analytica Partner Portal
